@@ -27,4 +27,4 @@ jobs:
 
       - uses: pypa/gh-action-pip-audit@v1.1.0
         with:
-          inputs: constraints-2.10.3/constraints-3.11-dohop-1.txt
+          inputs: constraints-2.10.3/constraints-3.11-dohop-3.txt
