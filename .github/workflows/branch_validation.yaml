@@ -20,7 +20,7 @@ jobs:
       matrix:
         constraints:
           - constraints-2.10.3/constraints-3.11-dohop-3.txt
-          - constraints-3.2.1/constraints-3.11-dohop-1.txt
+          - constraints-3.2.1/constraints-3.12-dohop-1.txt
     steps:
       - uses: actions/checkout@v4
 
